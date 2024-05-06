@@ -1,0 +1,184 @@
+.box-a {
+    background-color: rgb(252, 252, 252);
+    padding: 30px;
+    border: 15px solid rgb(255, 0, 0);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+
+.box-b {
+    background-color: rgb(255, 225, 0);
+    padding: 30px;
+    border: 15px solid rgb(55, 0, 255);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.box-c {
+    background-color: rgb(255, 0, 0);
+    padding: 30px;
+    border: 15px solid rgb(32, 28, 76);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.roosters {
+    background-color: rgb(255, 255, 255);
+}
+.box-d {
+    background-color: rgb(116, 219, 247);
+    padding: 30px;
+    border: 15px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.sharks {
+    background-color: white;
+}
+.box-e {
+    background-color: rgb(0, 119, 255);
+    padding: 30px;
+    border: 15px solid rgb(22, 0, 83);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.titans {
+    background-color: gold;
+}
+.box-f {
+    background-color: gold;
+    padding: 30px;
+    border: 15px solid rgb(22, 0, 83);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;  
+}
+.cowboys {
+    background-color: gray;
+}
+.box-g {
+    background-color: rgb(83, 255, 83);
+    padding: 30px;
+    border: 15px solid rgb(22, 0, 83);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;   
+}
+.raiders {
+    background-color: white;
+}
+.box-h {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border: 15px solid maroon;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;   
+}
+.box-i {
+    background-color: rgb(69, 31, 107);
+    padding: 30px;
+    border: 15px solid navy;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.box-j {
+    background-color: rgb(104, 0, 42);
+    padding: 30px;
+    border: 15px solid gold;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.box-k {
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+    border: 15px solid rgb(255, 0, 0);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.panthers {
+    background-color: yellow;
+}
+.box-l {
+    background-color: goldenrod;
+    padding: 30px;
+    border: 15px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.tigers {
+    background-color: white;
+}
+.box-m {
+    background-color: rgb(98, 184, 72);
+    padding: 30px;
+    border: 15px solid rgb(53, 34, 149);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.Warriors {
+    background-color: white;
+}
+.box-n {
+    background-color: rgb(255, 0, 0);
+    padding: 30px;
+    border: 15px solid rgb(30, 0, 180);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
+.knights {
+    background-color: whitesmoke;
+}
+.box-o {
+    background-color: rgb(222, 15, 15);
+    padding: 30px;
+    border: 15px solid rgb(43, 148, 16);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.box-p {
+    background-color: rgb(177, 186, 56);
+    padding: 30px;
+    border: 15px solid rgb(255, 0, 0);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box; 
+}
+.dolphins {
+    background-color: aliceblue;
+}
+.box-q {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border: 15px solid rgb(0, 8, 252);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
